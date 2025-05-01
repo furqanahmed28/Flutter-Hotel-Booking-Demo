@@ -1,4 +1,4 @@
-#Flutter Hotel Booking Demo
+# Flutter Hotel Booking Demo
 
 A minimal Flutter demo app to showcase key UI features and functionality related to hotel bookings.
 
@@ -32,7 +32,7 @@ StatefulWidget for dynamic state management
 
 ## Getting Started
 
-# Prerequisites
+### Prerequisites
 
 Make sure Flutter is installed on your system:
 
@@ -42,28 +42,28 @@ flutter doctor
 
 If not installed, follow the official installation guide:Flutter Install Guide
 
-## Installation Procedure
+### Installation Procedure
 
 Follow these steps to run the app locally on your Windows/macOS/Linux system:
 
-###Clone the repository:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/hotel_book_demo.git
 ```
 
-###Navigate to the project directory:
+### Navigate to the project directory:
 
 ```bash
 cd hotel_book_demo
 ```
-###Get all dependencies:
+### Get all dependencies:
 
 ```bash
 flutter pub get
 ```
 
-###(Optional) Check for connected devices:
+### (Optional) Check for connected devices:
 
 ```bash
 flutter devices
@@ -77,7 +77,7 @@ flutter run
 
 📱 You can run it on Android Emulator, iOS Simulator, or a physical device.
 
-##📁 Project Structure (Overview)
+## 📁 Project Structure (Overview)
 
 hotel_book_demo/
 ├── images/                 # Hotel images used in the app
@@ -89,6 +89,6 @@ hotel_book_demo/
 ├── pubspec.yaml            # Project config and dependencies
 └── README.md               # This file
 
-##📝 License
+## 📝 License
 
 This project is open source.
