@@ -77,9 +77,6 @@ flutter run
 
 📱 You can run it on Android Emulator, iOS Simulator, or a physical device.
 
-## 📁 Project Structure (Overview)
-
-hotel_book_demo/ ├── images/ # Hotel images used in the app │ ├── PC.jpg │ ├── mariott.jpg │ └── mnp.jpg ├── lib/ │ └── main.dart # Main app file ├── pubspec.yaml # Project config and dependencies └── README.md
 
 ## 📝 License
 
