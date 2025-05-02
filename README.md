@@ -49,13 +49,13 @@ Follow these steps to run the app locally on your Windows/macOS/Linux system:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hotel_book_demo.git
+git clone https://github.com/furqanahmed28/Flutter-Hotel-Booking-Demo.git
 ```
 
 ### Navigate to the project directory:
 
 ```bash
-cd hotel_book_demo
+cd Flutter-Hotel-Booking-Demo
 ```
 ### Get all dependencies:
 
